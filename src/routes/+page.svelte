@@ -34,9 +34,9 @@
 
   <!-- <Counter /> -->
 
-  <!-- <Wrapper bind:input bind:isPremium bind:isVip>
+  <Wrapper bind:input bind:isPremium bind:isVip>
     <Scene bind:input bind:isPremium bind:isVip />
-  </Wrapper> -->
+  </Wrapper>
 </section>
 
 <style>

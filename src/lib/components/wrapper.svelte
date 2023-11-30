@@ -71,6 +71,7 @@
   .wrapper {
     border-radius: 20px;
     overflow: hidden;
+    border: 1px solid white;
   }
 
   .content {
